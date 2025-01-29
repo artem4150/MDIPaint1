@@ -69,7 +69,7 @@ namespace MDI_DrawApp_DockPanel
     /// </summary>
     public partial class MainForm : Form
     {
-        // DockPanel из DockPanelSuite
+        // DockPanel из DockPanelSuite3
         private DockPanel dockPanel;
         //private WeifenLuo.WinFormsUI.Docking.VisualStudioToolStripExtender vsExtender;
 
